@@ -4,4 +4,4 @@ Created a LED lightshow for the final project in the course CS121 Computer Organ
 
 Languages Used: Python, JavaScript
 
-Installions Required: Go to requirements.txt
+
